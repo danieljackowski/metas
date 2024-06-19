@@ -1,3 +1,18 @@
 body {
     background-image: linear-gradient(to bottom, hsl(106, 32%, 52%), #79b35f);
 }
+
+.centralizado {
+    text-align: center;
+    /* Outros estilos opcionais para a section */
+    padding: 20px;
+    background: linear-gradient(to bottom, #38b0e7, #f7f7f7); /* Gradiente linear */
+    /* Outros estilos opcionais para a section */
+}
+
+h1 {
+    font-size: 36px; /* Tamanho do texto do h1 */
+    /* Outros estilos opcionais para o h1 */
+    color: #333; /* Cor do texto */
+    margin-bottom: 20px; /* Margem inferior para espaçamento */
+}
