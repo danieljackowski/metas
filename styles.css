@@ -1,6 +1,6 @@
 body {
     position: relative;
-    background-image: linear-gradient(to bottom, hsl(106, 32%, 52%), #79b35f);
+    background-image: linear-gradient(to bottom, hsl(106, 32%, 52%), hsl(101, 36%, 54%));
 }
 body::after {
     content: '';
@@ -22,7 +22,7 @@ body::after {
     text-align: center;
     /* Outros estilos opcionais para a section */
     padding: 20px;
-    background: linear-gradient(to bottom, #35a9de, #aad5f1); /* Gradiente linear */
+    background: linear-gradient(to bottom, hsl(106, 32%, 52%), hsl(101, 36%, 54%)); /* Gradiente linear */
     /* Outros estilos opcionais para a section */
 }
 
